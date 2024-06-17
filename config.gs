@@ -1,0 +1,1 @@
+const notification_storage_name = "notificationSentThisMonth";
